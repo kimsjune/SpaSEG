@@ -5,7 +5,7 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
-        "pytorch==1.12.0",
+        "torch==1.12.0",
         "opencv-python==4.7.0",
         "squidpy==1.2.3",
         "cell2location==v0.8a0",
